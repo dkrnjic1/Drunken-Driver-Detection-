@@ -2,7 +2,7 @@
 
 This project was developed as part of the "Artificial Intelligence" course at the Faculty of Electrical Engineering, University of Sarajevo. It explores the use of machine learning and computer vision techniques to detect drivers under the influence of alcohol using thermal images.
 
-## 👥 Team Members
+## Team Members
 
 - Džana Krnjić
 - Irma Galijašević 
