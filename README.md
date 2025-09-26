@@ -55,14 +55,14 @@ A Convolutional Neural Network (CNN) was used, composed of:
 
 ---
 
-## 🏁 Training & Evaluation
+## Training & Evaluation
 
 - **Optimizer**: Adam  
 - **Loss Function**: Binary Crossentropy  
 - **Epochs**: 30  
 - **Validation split**: ~20%
 
-### 📊 Performance Metrics on Test Set
+### Performance Metrics on Test Set
 
 | Metric       | Sober Class | Drunk Class |
 |--------------|-------------|-------------|
@@ -84,7 +84,7 @@ A Convolutional Neural Network (CNN) was used, composed of:
 
 ---
 
-## 📎 Notebook & Code
+## Notebook & Code
 
 All source code and experiments are available in the notebook:
 
