@@ -44,7 +44,7 @@ A Convolutional Neural Network (CNN) was used, composed of:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python**
 - **TensorFlow / Keras**: Model training and evaluation
